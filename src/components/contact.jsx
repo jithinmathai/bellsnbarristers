@@ -159,7 +159,7 @@ export const Contact = (props) => {
         <div className="container text-center">
           <p>
             &copy; 2025 P23 Systems. Design by{" "}
-            <a href="http://www.p23systems.net" rel="nofollow">
+            <a href="https://www.p23systems.net" rel="nofollow">
               P23 Systems
             </a>
           </p>
