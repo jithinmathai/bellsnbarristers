@@ -1,0 +1,210 @@
+{
+  "Header": {
+    "title": "We are Bells & Barristers",
+    "paragraph": "Your Trusted Partner for All Legal Matters."
+  },
+  "About": {
+    "paragraph": "At Bells & Barristers, we redefine legal excellence with a client-focused and results-driven approach. Our team of highly skilled advocates specializes in a wide range of legal services, including criminal defence, corporate law, civil litigation, human rights, and taxation law. With a deep understanding of the law and a commitment to justice, we provide strategic legal solutions tailored to the needs of individuals, businesses, and organizations. Whether in the courtroom or through legal advisory, we stand as your trusted legal partners, ensuring that your rights and interests are always protected.",
+    "Why": [
+      "Expert Legal Team",
+      "Comprehensive Legal Services",
+      "Transparent & Ethical Practices",
+      "Proven Success in Tribunals & Appellate Forums"
+    ],
+    "Why2": [
+      "Courtroom Excellence",
+      "Client-Centric Approach",
+      "Strong Reputation & Client Trust",
+      "Strong Negotiation & Litigation Skills"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Taxation & Financial Legal Services",
+      "largeImage": "img/portfolio/01-large.webp",
+      "smallImage": "img/portfolio/01-small.webp"
+    },
+    {
+      "title": "Corporate Law",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Civil Matters",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Banking & Finance",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Criminal Law",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Contract Laws & Agreement Drafting",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Family Law",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Service & Employment",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Consumer Rights",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+  {
+      "icon": "fa fa-shield",
+      "name": "Criminal Law & Defence"
+    },
+    {
+      "icon": "fa fa-gavel",
+      "name": "Civil Litigation & Dispute Resolution"
+    },
+    {
+      "icon": "fa fa-university",
+      "name": "Banking Laws"
+    },
+    {
+      "icon": "fa fa-shopping-cart",
+      "name": "Consumer Law"
+    },
+    {
+      "icon": "fa fa-suitcase",
+      "name": "Corporate Law"
+    },
+    {
+      "icon": "fa fa-globe",
+      "name": "Environmental Laws"
+    },
+    {
+      "icon": "fa fa-home",
+      "name": "Property & Land Laws"
+    },
+    {
+      "icon": "fa fa-file-o",
+      "name": "Service & Employment Laws"
+    },
+    {
+      "icon": "fa fa-chain",
+      "name": "Human Rights"
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Family Laws"
+    },
+    {
+      "icon": "fa fa-venus",
+      "name": "Crime Against Women"
+    },
+    {
+      "icon": "fa fa-wrench",
+      "name": "Labour Laws"
+    },
+    {
+      "icon": "fa fa-road",
+      "name": "Motor Accident Claims"
+    },
+    {
+      "icon": "fa fa-money",
+      "name": "Taxation & Financial Legal Services"
+    },
+    {
+      "icon": "fa fa-pencil",
+      "name": "Contract Laws & Agreement Drafting"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"I was really happy with the legal help I got from this firm in Kerala. As a resident of the UK, I was worried about dealing with Indian law from far away, but they made it easy.They explained everything clearly from the start and always answered my emails and WhatsApp messages quickly. They knew a lot about both Indian and international law, which made me feel confident.They were very professional and honest about the costs. They handled my case efficiently and got a good result.I definitely recommend this firm to anyone needing legal help in Kerala, especially if you're from another country and dealing with things like property, family, or business in India. They're dedicated and really care about their clients.\"",
+      "name": "Kiran Joseph"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I am highly impressed with the exceptional service provided by your firm. As a permanent resident in Canada, I initially worried about the time zone difference, but you guys always managed to communicate with me promptly and efficiently. Your professionalism and dedication ensured that my financial and tax returns were filed on time without any issues. You guys demonstrated great attention to detail and provided clear explanations, making the entire process easy. I sincerely appreciate your care and consideration, and I highly recommend your services to anyone seeking reliable financial assistance.\"",
+      "name": "Roshy Suresh"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Bells and Barristers helped us draft our partnership deed quickly and at a good price. They were friendly, easy to talk to, and explained everything clearly. The process was smooth, and they finished the work in just a day. Their service was fast and professional. I highly recommend them.\"",
+      "name": "justin James"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Their team was incredibly knowledgeable and professional, helping me secure the necessary licenses, drafting contracts, and advising on compliance with local regulations. What stood out the most was their attention to detail and willingness to answer every question I had, no matter how small. I felt confident knowing that every legal aspect of my business was in good hands.\"",
+      "name": "Alben Michael"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"I had an excellent experience with this team. The team was professional, knowledgeable, and truly dedicated to resolving my legal issues. Their attention to detail and clear communication made the process smooth and stress-free. They took the time to explain every step, ensuring I was comfortable and informed throughout. I highly recommend them to anyone seeking reliable legal services in Kerala.\"",
+      "name": "Alwin Joseph"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Great crew of advocates . Thank u once again\"",
+      "name": "Hari Krishna"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "A.M Babu",
+      "job": "Advocate"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Shince Tom",
+      "job": "Advocate"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Lira A.B",
+      "job": "Advocate"
+    }
+  ],
+  "Contact": {
+    "address": "931,9th Floor,Golden Jubilee Chamber Complex - Kerala High Court Advocates Association, Near  High Court of Kerala, Marine Drive, Cochin-31",
+    "phone": "+91-9400950098,9400321007",
+	  "whatsapp": "https://wa.me/919400950098",
+    "email": "bellsandbarristers@gmail.com",
+    "facebook": "https://www.facebook.com/BellsandBarristers",
+    "instagram": "https://www.instagram.com/bellsandbarristers",
+    "google": "https://maps.app.goo.gl/g8DAqq2pcyCBVvA56"
+  },
+  "Features": [
+        {
+      "icon": "fa fa-bullseye",
+      "title": "Expert Legal Consultation",
+      "text": "Receive professional legal advice tailored to your needs, backed by years of experience in diverse legal domains."
+    },
+    {
+      "icon": "fa fa-bolt",
+      "title": "Strong Legal Representation",
+      "text": "Our skilled attorneys advocate for your rights with confidence in courts, tribunals, and negotiation tables."
+    },
+    {
+      "icon": "fa fa-crosshairs",
+      "title": "Client-Centered Approach",
+      "text": "We prioritize your interests with a strategic, transparent, and solution-driven legal process."
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "title": "Innovative Legal Solutions",
+      "text": "Leveraging modern legal strategies and technology to deliver efficient and effective legal outcomes."
+    }
+  ]
+}
